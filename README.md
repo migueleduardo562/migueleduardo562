@@ -1,14 +1,14 @@
 # Olá, eu sou Miguel Eduardo 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+**Estudante de Análise e Desenvolvimento de Sistemas**
 
-💻 Interesse em:
+## Interesse em:
 - Desenvolvimento Web
 - Backend
 - Banco de Dados
 - Automação
 
-📚 Atualmente estudando:
+## Atualmente estudando:
 - Desenvolvimento Web
 - JavaScript
 - Python
